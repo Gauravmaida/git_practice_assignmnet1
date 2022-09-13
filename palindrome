@@ -1,0 +1,11 @@
+let str = "Naman";
+let a="";
+for(let i = str.length;i>=2;i--)[
+    a=a+str[i];
+]
+if(a==str){
+    console.log("Yes");
+}
+else{
+    console.log("No");
+}
